@@ -1,1 +1,0 @@
-# stream-chat-demo-react
